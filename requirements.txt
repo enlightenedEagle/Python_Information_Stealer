@@ -1,3 +1,6 @@
 tk
 ttkthemes
 PyInstaller
+requests
+subprocess.run
+
